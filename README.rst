@@ -60,7 +60,7 @@ License
 ----------
 
 Mecum is licensed under the MIT license.
-
+ 
 For the full copyright and license information, please view the `LICENSE`_.
 
 .. _LICENSE:             https://github.com/mecum/expand/blob/master/LICENSE
